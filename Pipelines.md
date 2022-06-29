@@ -1,6 +1,6 @@
 ```mermaid
 graph TD
-    A --> B
+    Sample --> B(gDNA)
     B --> C
     C --> D
 ```
